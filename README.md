@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="App/Assets.xcassets/AppIcon.appiconset/icon_256.png" width="180" height="180" />
+<img src="docs/icon_rounded.png" width="180" height="180" />
 
 # Cat Monitor
 
